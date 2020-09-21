@@ -20,5 +20,5 @@ It identifying and grouping elements.
    - *IFRAMES:* to cut windows into your web pages
    like: src, height, width.
 ### HTML5 LAYOUT:
-It is a new elements created 
+It is a new elements created to.
 
