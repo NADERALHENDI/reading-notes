@@ -12,12 +12,12 @@ By utilizing a version control system `(VCS)`, Mistakes with files can easily be
        - The magor valnerability of the `(CVS)`.
        - Allows multiple programmers working in teams with in various way to complet a join project.
 ### Git:
-- Is `(DVCS)` store data
-- Is set up to minimize the possibility of irreversible damage to files.
-- States in `Git:`
-  - *Committed:* data is stored in local data base.
-  - *Modified:* file changed but no committed to data base.
-  - *Staged:* flagged a file's changed version.
+   - Is `(DVCS)` store data
+   - Is set up to minimize the possibility of irreversible damage to files.
+   - States in `Git:`
+    - *Committed:* data is stored in local data base.
+    - *Modified:* file changed but no committed to data base.
+    - *Staged:* flagged a file's changed version.
 ### GitHub:
 - is a place to share code with other on the cloud.
 - is a place to store your codes
