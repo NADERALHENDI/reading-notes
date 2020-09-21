@@ -19,12 +19,12 @@ By utilizing a version control system `(VCS)`, Mistakes with files can easily be
     - *Modified:* file changed but no committed to data base.
     - *Staged:* flagged a file's changed version.
 ### GitHub:
-- is a place to share code with other on the cloud.
-- is a place to store your codes
+   - is a place to share code with other on the cloud.
+   - is a place to store your codes
 ##### `To create a copy of an existing Git repo, type:`
-$ git clone https://github.com/test
+     $ git clone https://github.com/test
 ##### `To start tracking file, typing the following:-using the Terminal or Command line-`
-- $ git add .
-- $ git commit -m "any message"
-- $ git push origin master.
+   - $ git add .
+   - $ git commit -m "any message"
+   - $ git push origin master.
 
