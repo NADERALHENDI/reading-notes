@@ -5,12 +5,12 @@ By utilizing a version control system `(VCS)`, Mistakes with files can easily be
    1. *Local version control:*
      Is local `(VCS)` entails one database on your hard disk.
    1. *Centralized version control:*
-     - To collabration within a developer team on single file  `(CVCS)`.
-     - Single server storing all changes and files.
-     - Can accessed by many clients.
+       - To collabration within a developer team on single file  `(CVCS)`.
+       - Single server storing all changes and files.
+       - Can accessed by many clients.
    1. *Distributed version control:`(DVCS)`*
-     - The magor valnerability of the `(CVS)`.
-     - Allows multiple programmers working in teams with in various way to complet a join project.
+       - The magor valnerability of the `(CVS)`.
+       - Allows multiple programmers working in teams with in various way to complet a join project.
 ### Git:
 - Is `(DVCS)` store data
 - Is set up to minimize the possibility of irreversible damage to files.
