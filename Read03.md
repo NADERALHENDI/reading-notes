@@ -14,12 +14,12 @@ By utilizing a version control system `(VCS)`, Mistakes with files can easily be
 ### Git:
 is set up to minimize the file's damege
 ##### states in Git:
-- `committed:` data stored in local data base.
-- `staged:` flagged a file's changed version.
+###### - `committed:` data stored in local data base.
+###### - `staged:` flagged a file's changed version.
 ### Github:
 is a place to share code with other on the club, 
 and to store your code.
 ##### To tracking your work:
-- $ git add .
-- $ git commit -m "message"
-- $ git push origion master.
+###### - $ git add .
+###### - $ git commit -m "message"
+###### - $ git push origion master.
