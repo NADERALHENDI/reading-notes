@@ -21,10 +21,10 @@ By utilizing a version control system `(VCS)`, Mistakes with files can easily be
 ### GitHub:
 - is a place to share code with other on the cloud.
 - is a place to store your codes
-###### To create a copy of an existing Git repo, type:
+##### `To create a copy of an existing Git repo, type:`
 $ git clone https://github.com/test
-###### To start tracking file, typing the following: -using the Terminal or Command line-
-1. $ git add .
-2. $ git commit -m "any message"
-3. $ git push origin master.
+##### `To start tracking file, typing the following:-using the Terminal or Command line-`
+- $ git add .
+- $ git commit -m "any message"
+- $ git push origin master.
 
