@@ -7,3 +7,4 @@
    - ## Read04: [Read04](https://naderalhendi.github.io/reading-notes/Read04)
    - ## Read05: [Read05](https://naderalhendi.github.io/reading-notes/Read05)
    - ## Read06: [Read06](https://naderalhendi.github.io/reading-notes/Read06)
+   - ## Read07: [Read06](https://naderalhendi.github.io/reading-notes/Read07)
