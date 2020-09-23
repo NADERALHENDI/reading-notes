@@ -10,3 +10,4 @@
 | Read05 | [Read05](https://naderalhendi.github.io/reading-notes/Read05) |
 | Read06 | [Read06](https://naderalhendi.github.io/reading-notes/Read06) |
 | Read07 | [Read07](https://naderalhendi.github.io/reading-notes/Read07) |
+| Read08 | [Read08](https://naderalhendi.github.io/reading-notes/Read08) |
